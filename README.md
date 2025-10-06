@@ -193,3 +193,5 @@ G 0 <br>
 <hr>
 <img width="396" height="29" alt="image" src="https://github.com/user-attachments/assets/77b703d8-b612-4d52-acc7-52c1cbf9ee98" />
 
+<h2>RESULT :</h2>
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
